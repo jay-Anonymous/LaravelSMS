@@ -34,9 +34,7 @@ Administrators (Super Admin & Admin)
 - Student
 - Parent
 
-**Requirements** 
 
-Check Laravel 8 Requirements https://laravel.com/docs/8.x
 
 **Installation**
 - 
